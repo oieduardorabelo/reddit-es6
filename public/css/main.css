@@ -1,0 +1,13 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  float: left;
+  height: 25vh;
+  width: 25%;
+  object-fit: cover;
+  transition: all linear 250ms;
+}
